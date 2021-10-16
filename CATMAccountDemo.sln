@@ -7,7 +7,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AccountDemoWeb", "AccountDe
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AccountDemoWeb.Tests", "AccountDemoWeb.Tests\AccountDemoWeb.Tests.vbproj", "{BB6394E4-0453-456D-B027-29085D5210F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountDemoAPI", "AccountDemoAPI\AccountDemoAPI.csproj", "{9B3936F3-E185-4AD0-AB50-DB02E7928FE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountDemoAPI", "AccountDemoAPI\AccountDemoAPI.csproj", "{9B3936F3-E185-4AD0-AB50-DB02E7928FE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
